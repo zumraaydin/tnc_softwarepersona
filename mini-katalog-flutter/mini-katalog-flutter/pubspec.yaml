@@ -1,0 +1,21 @@
+name: mini_katalog_uygulamasi
+description: "Flutter eğitimi bitirme projesi - Mini Katalog Uygulaması"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# Ekstra paket kullanılmamıştır (yönerge gereği yalnızca material.dart kullanılmıştır).
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/products.json

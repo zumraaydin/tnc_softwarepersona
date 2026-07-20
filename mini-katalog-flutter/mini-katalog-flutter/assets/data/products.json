@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık",
+    "category": "Elektronik",
+    "price": 1299.90,
+    "description": "Aktif gürültü engelleme özellikli, 30 saate varan pil ömrüne sahip kablosuz kulaklık.",
+    "icon": "headphones"
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat",
+    "category": "Elektronik",
+    "price": 2499.00,
+    "description": "Kalp ritmi takibi, uyku analizi ve 7 gün pil ömrü sunan akıllı saat.",
+    "icon": "watch"
+  },
+  {
+    "id": 3,
+    "name": "Taşınabilir Hoparlör",
+    "category": "Elektronik",
+    "price": 899.50,
+    "description": "Suya dayanıklı, 12 saat çalma süresine sahip taşınabilir Bluetooth hoparlör.",
+    "icon": "speaker"
+  },
+  {
+    "id": 4,
+    "name": "Sırt Çantası",
+    "category": "Aksesuar",
+    "price": 649.00,
+    "description": "Laptop bölmeli, su geçirmez kumaştan üretilmiş günlük kullanım sırt çantası.",
+    "icon": "backpack"
+  },
+  {
+    "id": 5,
+    "name": "Kişisel Gelişim Kitabı",
+    "category": "Kitap",
+    "price": 89.90,
+    "description": "Verimlilik ve alışkanlık yönetimi üzerine yazılmış çok satan kitap.",
+    "icon": "book"
+  },
+  {
+    "id": 6,
+    "name": "Aromaterapi Mum Seti",
+    "category": "Ev & Yaşam",
+    "price": 159.00,
+    "description": "Lavanta ve vanilya kokulu, 3 parçadan oluşan doğal mum seti.",
+    "icon": "candle"
+  },
+  {
+    "id": 7,
+    "name": "Termos Bardak",
+    "category": "Ev & Yaşam",
+    "price": 219.90,
+    "description": "Çift cidarlı, 6 saat sıcak/soğuk tutma özelliğine sahip paslanmaz çelik termos.",
+    "icon": "cup"
+  },
+  {
+    "id": 8,
+    "name": "Spor Ayakkabı",
+    "category": "Giyim",
+    "price": 749.90,
+    "description": "Nefes alabilen örgü kumaş ve hafif taban yapısına sahip günlük spor ayakkabı.",
+    "icon": "shoe"
+  }
+]
